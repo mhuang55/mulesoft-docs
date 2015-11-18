@@ -1,4 +1,4 @@
-= Introducing Anypoint Runtime Manager
+= Anypoint Runtime Manager
 :keywords: cloudhub, cloud, saas, applications, servers, clusters, sdg, arm, runtime manager
 
 == Overview

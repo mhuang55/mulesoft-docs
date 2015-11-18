@@ -1,0 +1,28 @@
+= Deploying On Premises
+:keywords: cloudhub, cloud, deploy, manage, arm, runtime manager
+
+You can use the Runtime Manager to deploy an application to a server that may be on premises.
+
+* In order to do this, you must first link:/runtime-manager/managing-servers-on-premises#add-a-server[Add a Server] on your Runtime Manager.
+* Then you can deploy apps to it, following the same steps you would on link:/runtime-manager/deploying-an-application-to-runtime-manager[deploying an application].
+
+
+[TIP]
+====
+When deploying to servers on premises, you don't need to provide the following information:
+
+* Application Name
+* Worker sizing settings
+* Region
+* Persistent Queues settings (not supported on premises)
+* Properties (not supported on premises)
+* Insights settings (not supported on premises)
+* Logging settings (not supported on premises)
+====
+
+
+
+== See Also
+
+* You can also deploy applications directly from link:/runtime-manager/hello-world-on-cloudhub[Anypoint Studio] or the link:/runtime-manager/command-line-tools[Command Line Tools]. A complete set of link:/runtime-manager/cloudhub-api[REST APIs] are also available for deployment.
+* link:/runtime-manager/managing-applications-on-runtime-manager[Managing Applications on Runtime Manager] contains more information on how to manage your CloudHub application, make changes, scale workers, and perform other application management tasks.

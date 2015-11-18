@@ -150,7 +150,7 @@ image:AMC_CreateServerGroup.png[AMC_CreateServerGroup]
 
 Give the server group a name, click the checkbox for each server to include in the group, and click *Create Group*.
 
-=== Add a Server to a Server Group
+==== Add a Server to a Server Group
 
 If you want to add a server to a group that is currently running an existing application, you must first stop and and delete the application before you can add the server to a group.
 
@@ -162,21 +162,13 @@ After you select servers to add to the group, click *Add to Group*:
 
 image:AddToGroup.png[AddToGroup]
 
-=== Stop an Application on a Server
+==== Stop an Application on a Server
 
 You can stop an application that is currently running on a server from the drop-down menu in the Status menu:
 
 image:StopAppOnServer.png[StopAppOnServer]
 
-=== Delete a Server
-
-To delete a server, click a server entry to display the detail view on the right side of the screen. 
-
-Click the down arrow below the server name and click *Delete*.
-
-image:DeleteServer.png[DeleteServer]
-
-=== Remove a Server from a Server Group
+==== Remove a Server from a Server Group
 
 To remove a server from a server group, expand the server group entry in the Servers tab and click the *X* icon at the far right of the entry:
 
@@ -186,11 +178,22 @@ Anypoint Connection Manager displays a verification prompt. Click the check box 
 
 image:RemoveVerifyPrompt.png[RemoveVerifyPrompt]
 
-=== Delete a Server Group
+
+==== Delete a Server Group
 
 To remove a server group, click the down arrow from an expanded view of a server group, and click *Delete Group*:
 
 image:DeleteGroup.png[DeleteGroup]
+
+=== Delete a Server
+
+To delete a server, click a server entry to display the detail view on the right side of the screen. 
+
+Click the down arrow below the server name and click *Delete*.
+
+image:DeleteServer.png[DeleteServer]
+
+
 
 == Status States
 

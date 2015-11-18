@@ -15,7 +15,7 @@
 *** link:/runtime-manager/deploying-an-application-to-runtime-manager[Deploying an Application to Runtime Manager]
 **** link:/runtime-manager/developing-a-cloudhub-application[Developing a CloudHub Application]
 **** link:/runtime-manager/fabric[Fabric]
-*** On-Prem
+*** link:/runtime-manager/deploying-on-premises[Deploying on Premises]
 *** link:/runtime-manager/managing-applications-on-runtime-manager[Managing Applications on Runtime Manager]
 **** link:/runtime-manager/cloudhub-console-overview[Runtime Manager Console Overview]
 **** link:/runtime-manager/alerts-and-notifications[Alerts and Notifications]
