@@ -1,7 +1,7 @@
 = Virtual Private Cloud
 :keywords: cloudhub, vpc, ipsec, ssl, openvpn
 
-CloudHub's Virtual Private Cloud (VPC) allows you ro create a virtually private and logically isolated network in the could to host your integration work loads.  You have the choice of using several connectivity methods that can connect your VPC securely and privately to your corporate intranet – whether on-premises or in other clouds – as if they were all part of a single, private network. 
+CloudHub's Virtual Private Cloud (VPC) allows you to create a virtually private and logically isolated network in the could to host your integration work loads.  You have the choice of using several connectivity methods that can connect your VPC securely and privately to your corporate intranet – whether on-premises or in other clouds – as if they were all part of a single, private network. 
 
 == How VPC Works
 
