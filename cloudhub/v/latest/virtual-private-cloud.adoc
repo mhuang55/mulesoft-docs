@@ -9,7 +9,7 @@ The Virtual Private Cloud creates a logically private and isolated network to ho
 
 image:CHVPC01.png[CHVPC01]
 
-VPC can be connected to your corporate intranet or cloud infrastrcture using secure connectivity methods. You can leverage IPSec (Strongswan) or Amazon Web Services (AWS) Direct Connect to connect to remote networks. In the event that your remote network is also in AWS, VPC peering can be leverage given your CloudHub VPC and your AWS VPC are in the same region. Do note that to leverage AWS Direct Connect you must have the relationshiop with AWS to set up the Direct Connections. Once the direct connection is established it can be applied to your CloudHub VPC. Although there are serveral choices highlighted here, IPSec is in gernal the recommended solutions as it provides a secure and flexible way to connect your VPC to your on-prem networks.
+VPC can be connected to your corporate intranet or cloud infrastrcture using secure connectivity methods. You can leverage IPSec (Strongswan) or Amazon Web Services (AWS) Direct Connect to connect to remote networks. In the event that your remote network is also in AWS, VPC peering can be leverage given your CloudHub VPC and your AWS VPC are in the same region. Do note that to leverage AWS Direct Connect you must have the relationshiop with AWS to set up the direct connections. Once the direct connection is established it can be applied to your CloudHub VPC. Although there are serveral choices highlighted here, IPSec is in gernal the recommended solutions as it provides a secure and flexible way to connect your VPC to your on-prem networks.
 
 == VPC Connectivity Methods
 
